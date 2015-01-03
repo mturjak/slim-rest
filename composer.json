@@ -1,0 +1,9 @@
+{
+    "name": "mturjak/slim-rest",
+    "require": {
+        "slim/slim": "*",
+        "slim/views": "*",
+        "twig/twig": "*",
+        "raveren/kint": "*"
+    }
+}
